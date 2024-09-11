@@ -1,5 +1,6 @@
 class memorization_fibo:
     print('fibo function')
+    print('test')
     def __init__(self, rn):
         self.rn = rn
 
